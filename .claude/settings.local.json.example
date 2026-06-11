@@ -1,0 +1,9 @@
+{
+  "_comment": "Copy this file to .claude/settings.local.json (same folder) and replace the two paths below with the REAL absolute paths on THIS machine. This grants the agent read access to your brand/design source and your live Second Brain vault. Both are OPTIONAL — if you don't have a design system yet, remove that line and the tool falls back to the project's brand-tokens.css placeholder + MOTION_PHILOSOPHY defaults. This file is gitignored — your paths stay local and are never committed. To find a path: in Terminal, cd into the folder and run `pwd`.",
+  "permissions": {
+    "additionalDirectories": [
+      "/ABSOLUTE/PATH/TO/your-design-system",
+      "/ABSOLUTE/PATH/TO/your-second-brain-vault"
+    ]
+  }
+}

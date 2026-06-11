@@ -1,0 +1,9 @@
+{
+  "$schema": "https://hyperframes.heygen.com/schema/hyperframes.json",
+  "id": "sample-project",
+  "name": "sample-project",
+  "createdAt": "2026-06-12T00:00:00.000Z",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30
+}

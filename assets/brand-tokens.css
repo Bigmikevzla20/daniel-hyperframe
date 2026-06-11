@@ -1,0 +1,33 @@
+/* brand-tokens.css — PLACEHOLDER brand tokens.
+ *
+ * These are neutral defaults so the tool renders something on day one.
+ * Replace every value below with your own brand, OR point DESIGN.md at a
+ * real design-system source and read tokens from there instead.
+ *
+ * Until you do, compositions fall back to these + the MOTION_PHILOSOPHY
+ * defaults. Nothing here is a real brand — it's a starting point.
+ */
+:root {
+  /* Surfaces */
+  --brand-bg: #0e0e10;          /* page / canvas background        */
+  --brand-surface: #17171b;     /* cards, panels                   */
+  --brand-surface-2: #232329;   /* raised surfaces                 */
+  --brand-border: #2c2c33;      /* hairlines, dividers             */
+
+  /* Accents (replace with your brand colors) */
+  --brand-accent: #6b7280;      /* primary accent — PLACEHOLDER    */
+  --brand-accent-glow: #9ca3af; /* glow / highlight — PLACEHOLDER  */
+  --brand-warn: #d08a3e;        /* warning / emphasis              */
+
+  /* Text */
+  --brand-text: #ffffff;
+  --brand-text-dim: #9aa0aa;
+
+  /* Headline treatment — define your own (e.g. a text gradient).
+   * PLACEHOLDER: a neutral light gradient. Swap for your brand look. */
+  --brand-headline-gradient: linear-gradient(135deg, #ffffff 0%, #d7d7dd 100%);
+
+  /* Type */
+  --font-display: "Inter", system-ui, sans-serif;   /* replace with your display face */
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+}

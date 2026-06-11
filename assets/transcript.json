@@ -1,0 +1,1237 @@
+[
+  {
+    "text": "Four",
+    "start": 0.24,
+    "end": 0.42
+  },
+  {
+    "text": "tools,",
+    "start": 0.42,
+    "end": 1.16
+  },
+  {
+    "text": "15",
+    "start": 1.36,
+    "end": 1.71
+  },
+  {
+    "text": "minutes.",
+    "start": 1.71,
+    "end": 2.4
+  },
+  {
+    "text": "That's",
+    "start": 2.64,
+    "end": 2.77
+  },
+  {
+    "text": "all",
+    "start": 2.77,
+    "end": 2.96
+  },
+  {
+    "text": "it",
+    "start": 2.96,
+    "end": 3.07
+  },
+  {
+    "text": "takes",
+    "start": 3.07,
+    "end": 3.28
+  },
+  {
+    "text": "to",
+    "start": 3.28,
+    "end": 3.52
+  },
+  {
+    "text": "go",
+    "start": 3.52,
+    "end": 3.76
+  },
+  {
+    "text": "from",
+    "start": 3.76,
+    "end": 3.85
+  },
+  {
+    "text": "a",
+    "start": 3.95,
+    "end": 4.01
+  },
+  {
+    "text": "blank",
+    "start": 4.01,
+    "end": 4.47
+  },
+  {
+    "text": "machine",
+    "start": 4.47,
+    "end": 5.12
+  },
+  {
+    "text": "to",
+    "start": 5.21,
+    "end": 5.31
+  },
+  {
+    "text": "a",
+    "start": 5.31,
+    "end": 5.4
+  },
+  {
+    "text": "fully",
+    "start": 5.4,
+    "end": 5.69
+  },
+  {
+    "text": "operational",
+    "start": 5.88,
+    "end": 6.93
+  },
+  {
+    "text": "AI",
+    "start": 6.93,
+    "end": 7.12
+  },
+  {
+    "text": "workspace.",
+    "start": 7.12,
+    "end": 8
+  },
+  {
+    "text": "But",
+    "start": 8.24,
+    "end": 8.25
+  },
+  {
+    "text": "what",
+    "start": 8.25,
+    "end": 8.58
+  },
+  {
+    "text": "you",
+    "start": 8.58,
+    "end": 8.74
+  },
+  {
+    "text": "install",
+    "start": 8.82,
+    "end": 9.41
+  },
+  {
+    "text": "and",
+    "start": 9.41,
+    "end": 9.66
+  },
+  {
+    "text": "why,",
+    "start": 9.66,
+    "end": 10.1
+  },
+  {
+    "text": "that's",
+    "start": 10.1,
+    "end": 10.53
+  },
+  {
+    "text": "where",
+    "start": 10.61,
+    "end": 10.89
+  },
+  {
+    "text": "most",
+    "start": 10.89,
+    "end": 11.04
+  },
+  {
+    "text": "people",
+    "start": 11.18,
+    "end": 11.62
+  },
+  {
+    "text": "get",
+    "start": 11.62,
+    "end": 11.84
+  },
+  {
+    "text": "it",
+    "start": 11.84,
+    "end": 11.98
+  },
+  {
+    "text": "wrong.",
+    "start": 11.98,
+    "end": 12.6
+  },
+  {
+    "text": "VS",
+    "start": 12.6,
+    "end": 12.84
+  },
+  {
+    "text": "Code",
+    "start": 12.84,
+    "end": 13.3
+  },
+  {
+    "text": "is",
+    "start": 13.3,
+    "end": 13.48
+  },
+  {
+    "text": "the",
+    "start": 13.48,
+    "end": 13.96
+  },
+  {
+    "text": "cockpit",
+    "start": 13.96,
+    "end": 14.71
+  },
+  {
+    "text": "where",
+    "start": 14.71,
+    "end": 14.75
+  },
+  {
+    "text": "everything",
+    "start": 15.21,
+    "end": 15.88
+  },
+  {
+    "text": "gets",
+    "start": 15.88,
+    "end": 16.2
+  },
+  {
+    "text": "built",
+    "start": 16.2,
+    "end": 16.58
+  },
+  {
+    "text": "and",
+    "start": 16.58,
+    "end": 16.82
+  },
+  {
+    "text": "run.",
+    "start": 16.82,
+    "end": 17.3
+  },
+  {
+    "text": "Obsidian",
+    "start": 17.54,
+    "end": 18.02
+  },
+  {
+    "text": "is",
+    "start": 18.02,
+    "end": 18.18
+  },
+  {
+    "text": "the",
+    "start": 18.18,
+    "end": 18.23
+  },
+  {
+    "text": "memory,",
+    "start": 18.66,
+    "end": 19.2
+  },
+  {
+    "text": "the",
+    "start": 19.2,
+    "end": 19.42
+  },
+  {
+    "text": "exec's",
+    "start": 19.83,
+    "end": 20.01
+  },
+  {
+    "text": "entire",
+    "start": 20.11,
+    "end": 20.55
+  },
+  {
+    "text": "world,",
+    "start": 20.55,
+    "end": 21.18
+  },
+  {
+    "text": "synced",
+    "start": 21.18,
+    "end": 21.72
+  },
+  {
+    "text": "and",
+    "start": 21.72,
+    "end": 21.99
+  },
+  {
+    "text": "searchable.",
+    "start": 21.99,
+    "end": 23.2
+  },
+  {
+    "text": "Claude",
+    "start": 23.44,
+    "end": 23.7
+  },
+  {
+    "text": "Code",
+    "start": 23.7,
+    "end": 23.94
+  },
+  {
+    "text": "lives",
+    "start": 23.99,
+    "end": 24.1
+  },
+  {
+    "text": "in",
+    "start": 24.56,
+    "end": 24.64
+  },
+  {
+    "text": "two",
+    "start": 24.64,
+    "end": 24.89
+  },
+  {
+    "text": "places,",
+    "start": 24.89,
+    "end": 25.56
+  },
+  {
+    "text": "inside",
+    "start": 25.81,
+    "end": 26.07
+  },
+  {
+    "text": "the",
+    "start": 26.07,
+    "end": 26.24
+  },
+  {
+    "text": "terminal",
+    "start": 26.32,
+    "end": 26.93
+  },
+  {
+    "text": "for",
+    "start": 27,
+    "end": 27.25
+  },
+  {
+    "text": "power",
+    "start": 27.25,
+    "end": 27.66
+  },
+  {
+    "text": "workflows",
+    "start": 27.66,
+    "end": 28.05
+  },
+  {
+    "text": "and",
+    "start": 28.48,
+    "end": 28.68
+  },
+  {
+    "text": "inside",
+    "start": 28.84,
+    "end": 29.19
+  },
+  {
+    "text": "VS",
+    "start": 29.19,
+    "end": 29.36
+  },
+  {
+    "text": "Code",
+    "start": 29.36,
+    "end": 29.7
+  },
+  {
+    "text": "for",
+    "start": 29.7,
+    "end": 29.95
+  },
+  {
+    "text": "day-to-day",
+    "start": 29.95,
+    "end": 30.77
+  },
+  {
+    "text": "work.",
+    "start": 30.77,
+    "end": 31.2
+  },
+  {
+    "text": "And",
+    "start": 31.44,
+    "end": 31.52
+  },
+  {
+    "text": "Composio?",
+    "start": 31.52,
+    "end": 32.65
+  },
+  {
+    "text": "That's",
+    "start": 32.75,
+    "end": 33.13
+  },
+  {
+    "text": "the",
+    "start": 33.17,
+    "end": 33.32
+  },
+  {
+    "text": "wiring.",
+    "start": 33.8,
+    "end": 34.1
+  },
+  {
+    "text": "It's",
+    "start": 34.23,
+    "end": 34.36
+  },
+  {
+    "text": "what",
+    "start": 34.36,
+    "end": 34.59
+  },
+  {
+    "text": "connects",
+    "start": 34.62,
+    "end": 34.98
+  },
+  {
+    "text": "Claude",
+    "start": 35.44,
+    "end": 35.56
+  },
+  {
+    "text": "directly",
+    "start": 35.65,
+    "end": 36.03
+  },
+  {
+    "text": "to",
+    "start": 36.13,
+    "end": 36.25
+  },
+  {
+    "text": "the",
+    "start": 36.25,
+    "end": 36.7
+  },
+  {
+    "text": "inbox,",
+    "start": 36.7,
+    "end": 37
+  },
+  {
+    "text": "the",
+    "start": 37,
+    "end": 37.14
+  },
+  {
+    "text": "calendar,",
+    "start": 37.22,
+    "end": 37.82
+  },
+  {
+    "text": "the",
+    "start": 37.9,
+    "end": 38.16
+  },
+  {
+    "text": "tools",
+    "start": 38.16,
+    "end": 38.59
+  },
+  {
+    "text": "the",
+    "start": 38.59,
+    "end": 38.85
+  },
+  {
+    "text": "exec",
+    "start": 38.85,
+    "end": 38.94
+  },
+  {
+    "text": "already",
+    "start": 39.44,
+    "end": 39.81
+  },
+  {
+    "text": "lives",
+    "start": 39.81,
+    "end": 40.24
+  },
+  {
+    "text": "in.",
+    "start": 40.24,
+    "end": 40.68
+  },
+  {
+    "text": "Then",
+    "start": 40.94,
+    "end": 41.11
+  },
+  {
+    "text": "six",
+    "start": 41.11,
+    "end": 41.42
+  },
+  {
+    "text": "plug-ins",
+    "start": 41.42,
+    "end": 42.15
+  },
+  {
+    "text": "go",
+    "start": 42.25,
+    "end": 42.43
+  },
+  {
+    "text": "in",
+    "start": 42.43,
+    "end": 42.63
+  },
+  {
+    "text": "on",
+    "start": 42.63,
+    "end": 42.82
+  },
+  {
+    "text": "day",
+    "start": 42.82,
+    "end": 42.86
+  },
+  {
+    "text": "one,",
+    "start": 43.3,
+    "end": 43.7
+  },
+  {
+    "text": "not",
+    "start": 43.7,
+    "end": 43.98
+  },
+  {
+    "text": "optional",
+    "start": 43.98,
+    "end": 44.69
+  },
+  {
+    "text": "extras,",
+    "start": 44.74,
+    "end": 45.47
+  },
+  {
+    "text": "the",
+    "start": 45.47,
+    "end": 45.54
+  },
+  {
+    "text": "foundation.",
+    "start": 46.04,
+    "end": 47
+  },
+  {
+    "text": "One",
+    "start": 47.24,
+    "end": 47.27
+  },
+  {
+    "text": "gives",
+    "start": 47.27,
+    "end": 47.72
+  },
+  {
+    "text": "Claude",
+    "start": 47.72,
+    "end": 47.88
+  },
+  {
+    "text": "discipline",
+    "start": 48.36,
+    "end": 49.11
+  },
+  {
+    "text": "to",
+    "start": 49.11,
+    "end": 49.16
+  },
+  {
+    "text": "plan",
+    "start": 49.6,
+    "end": 49.7
+  },
+  {
+    "text": "and",
+    "start": 49.7,
+    "end": 49.97
+  },
+  {
+    "text": "debug.",
+    "start": 49.97,
+    "end": 50.7
+  },
+  {
+    "text": "One",
+    "start": 50.7,
+    "end": 50.94
+  },
+  {
+    "text": "teaches",
+    "start": 50.94,
+    "end": 51.42
+  },
+  {
+    "text": "it",
+    "start": 51.48,
+    "end": 51.6
+  },
+  {
+    "text": "to",
+    "start": 51.6,
+    "end": 51.63
+  },
+  {
+    "text": "build",
+    "start": 52.04,
+    "end": 52.16
+  },
+  {
+    "text": "visual",
+    "start": 52.25,
+    "end": 52.63
+  },
+  {
+    "text": "interfaces.",
+    "start": 52.63,
+    "end": 53.7
+  },
+  {
+    "text": "One",
+    "start": 53.94,
+    "end": 53.96
+  },
+  {
+    "text": "lets",
+    "start": 53.96,
+    "end": 54.31
+  },
+  {
+    "text": "it",
+    "start": 54.31,
+    "end": 54.44
+  },
+  {
+    "text": "drive",
+    "start": 54.48,
+    "end": 54.62
+  },
+  {
+    "text": "a",
+    "start": 54.62,
+    "end": 55.06
+  },
+  {
+    "text": "real",
+    "start": 55.06,
+    "end": 55.36
+  },
+  {
+    "text": "browser.",
+    "start": 55.36,
+    "end": 56.3
+  },
+  {
+    "text": "And",
+    "start": 56.54,
+    "end": 56.56
+  },
+  {
+    "text": "one,",
+    "start": 56.56,
+    "end": 56.99
+  },
+  {
+    "text": "the",
+    "start": 56.99,
+    "end": 57.18
+  },
+  {
+    "text": "most",
+    "start": 57.18,
+    "end": 57.66
+  },
+  {
+    "text": "important,",
+    "start": 57.66,
+    "end": 58.46
+  },
+  {
+    "text": "lets",
+    "start": 58.46,
+    "end": 58.91
+  },
+  {
+    "text": "Claude",
+    "start": 58.91,
+    "end": 59.3
+  },
+  {
+    "text": "remember",
+    "start": 59.3,
+    "end": 59.85
+  },
+  {
+    "text": "what",
+    "start": 59.86,
+    "end": 60.14
+  },
+  {
+    "text": "you",
+    "start": 60.14,
+    "end": 60.35
+  },
+  {
+    "text": "worked",
+    "start": 60.35,
+    "end": 60.76
+  },
+  {
+    "text": "on",
+    "start": 60.77,
+    "end": 60.91
+  },
+  {
+    "text": "last",
+    "start": 60.91,
+    "end": 61.14
+  },
+  {
+    "text": "week",
+    "start": 61.14,
+    "end": 61.64
+  },
+  {
+    "text": "without",
+    "start": 61.64,
+    "end": 62
+  },
+  {
+    "text": "you",
+    "start": 62,
+    "end": 62.21
+  },
+  {
+    "text": "re-explaining",
+    "start": 62.21,
+    "end": 63.12
+  },
+  {
+    "text": "it",
+    "start": 63.12,
+    "end": 63.26
+  },
+  {
+    "text": "every",
+    "start": 63.26,
+    "end": 63.53
+  },
+  {
+    "text": "single",
+    "start": 63.6,
+    "end": 63.89
+  },
+  {
+    "text": "session.",
+    "start": 64.48,
+    "end": 64.8
+  },
+  {
+    "text": "Every",
+    "start": 65.04,
+    "end": 65.22
+  },
+  {
+    "text": "piece",
+    "start": 65.22,
+    "end": 65.52
+  },
+  {
+    "text": "has",
+    "start": 65.58,
+    "end": 65.72
+  },
+  {
+    "text": "a",
+    "start": 65.72,
+    "end": 66.16
+  },
+  {
+    "text": "job,",
+    "start": 66.16,
+    "end": 66.38
+  },
+  {
+    "text": "nothing's",
+    "start": 66.38,
+    "end": 67.13
+  },
+  {
+    "text": "there",
+    "start": 67.4,
+    "end": 67.51
+  },
+  {
+    "text": "for",
+    "start": 67.61,
+    "end": 67.8
+  },
+  {
+    "text": "novelty.",
+    "start": 67.8,
+    "end": 68.69
+  },
+  {
+    "text": "The",
+    "start": 68.69,
+    "end": 68.94
+  },
+  {
+    "text": "install",
+    "start": 68.94,
+    "end": 69.42
+  },
+  {
+    "text": "isn't",
+    "start": 69.48,
+    "end": 69.85
+  },
+  {
+    "text": "about",
+    "start": 70.06,
+    "end": 70.15
+  },
+  {
+    "text": "having",
+    "start": 70.25,
+    "end": 70.63
+  },
+  {
+    "text": "the",
+    "start": 70.74,
+    "end": 70.85
+  },
+  {
+    "text": "tools,",
+    "start": 71.3,
+    "end": 71.4
+  },
+  {
+    "text": "it's",
+    "start": 71.51,
+    "end": 71.74
+  },
+  {
+    "text": "about",
+    "start": 71.82,
+    "end": 72.17
+  },
+  {
+    "text": "having",
+    "start": 72.17,
+    "end": 72.62
+  },
+  {
+    "text": "them",
+    "start": 72.62,
+    "end": 72.92
+  },
+  {
+    "text": "wired",
+    "start": 72.92,
+    "end": 73.29
+  },
+  {
+    "text": "correctly,",
+    "start": 73.29,
+    "end": 74
+  },
+  {
+    "text": "authenticated",
+    "start": 74.24,
+    "end": 74.86
+  },
+  {
+    "text": "to",
+    "start": 74.86,
+    "end": 75.36
+  },
+  {
+    "text": "the",
+    "start": 75.36,
+    "end": 75.45
+  },
+  {
+    "text": "exec's",
+    "start": 75.55,
+    "end": 75.93
+  },
+  {
+    "text": "account",
+    "start": 76.04,
+    "end": 76.62
+  },
+  {
+    "text": "and",
+    "start": 76.62,
+    "end": 76.87
+  },
+  {
+    "text": "ready",
+    "start": 76.87,
+    "end": 77.28
+  },
+  {
+    "text": "to",
+    "start": 77.28,
+    "end": 77.41
+  },
+  {
+    "text": "compound",
+    "start": 77.48,
+    "end": 78.14
+  },
+  {
+    "text": "from",
+    "start": 78.14,
+    "end": 78.48
+  },
+  {
+    "text": "day",
+    "start": 78.48,
+    "end": 78.73
+  },
+  {
+    "text": "one.",
+    "start": 78.73,
+    "end": 79.3
+  },
+  {
+    "text": "When",
+    "start": 79.54,
+    "end": 79.65
+  },
+  {
+    "text": "it's",
+    "start": 79.65,
+    "end": 79.99
+  },
+  {
+    "text": "done",
+    "start": 79.99,
+    "end": 80.18
+  },
+  {
+    "text": "right,",
+    "start": 80.64,
+    "end": 80.94
+  },
+  {
+    "text": "the",
+    "start": 80.94,
+    "end": 81.2
+  },
+  {
+    "text": "exec",
+    "start": 81.2,
+    "end": 81.42
+  },
+  {
+    "text": "has",
+    "start": 81.42,
+    "end": 81.91
+  },
+  {
+    "text": "one",
+    "start": 81.91,
+    "end": 82.01
+  },
+  {
+    "text": "cockpit,",
+    "start": 82.11,
+    "end": 82.9
+  },
+  {
+    "text": "one",
+    "start": 82.9,
+    "end": 83.28
+  },
+  {
+    "text": "memory,",
+    "start": 83.28,
+    "end": 84.14
+  },
+  {
+    "text": "one",
+    "start": 84.58,
+    "end": 84.62
+  },
+  {
+    "text": "system",
+    "start": 84.64,
+    "end": 85.28
+  },
+  {
+    "text": "that",
+    "start": 85.28,
+    "end": 85.68
+  },
+  {
+    "text": "grows",
+    "start": 85.72,
+    "end": 86.27
+  },
+  {
+    "text": "every",
+    "start": 86.27,
+    "end": 86.82
+  },
+  {
+    "text": "week.",
+    "start": 86.82,
+    "end": 87.6
+  },
+  {
+    "text": "When",
+    "start": 87.84,
+    "end": 87.89
+  },
+  {
+    "text": "something",
+    "start": 87.89,
+    "end": 88.34
+  },
+  {
+    "text": "takes",
+    "start": 88.34,
+    "end": 88.96
+  },
+  {
+    "text": "more",
+    "start": 88.96,
+    "end": 89.18
+  },
+  {
+    "text": "than",
+    "start": 89.2,
+    "end": 89.49
+  },
+  {
+    "text": "two",
+    "start": 89.49,
+    "end": 89.71
+  },
+  {
+    "text": "minutes,",
+    "start": 89.71,
+    "end": 90.31
+  },
+  {
+    "text": "it",
+    "start": 90.41,
+    "end": 90.5
+  },
+  {
+    "text": "becomes",
+    "start": 90.5,
+    "end": 90.89
+  },
+  {
+    "text": "a",
+    "start": 90.97,
+    "end": 91.08
+  },
+  {
+    "text": "skill,",
+    "start": 91.08,
+    "end": 91.58
+  },
+  {
+    "text": "permanently.",
+    "start": 91.58,
+    "end": 92.45
+  },
+  {
+    "text": "That's",
+    "start": 92.94,
+    "end": 93.18
+  },
+  {
+    "text": "how",
+    "start": 93.18,
+    "end": 93.42
+  },
+  {
+    "text": "15",
+    "start": 93.42,
+    "end": 93.58
+  },
+  {
+    "text": "minutes",
+    "start": 94.06,
+    "end": 94.48
+  },
+  {
+    "text": "of",
+    "start": 94.48,
+    "end": 94.63
+  },
+  {
+    "text": "setup",
+    "start": 94.63,
+    "end": 94.83
+  },
+  {
+    "text": "turns",
+    "start": 95.3,
+    "end": 95.42
+  },
+  {
+    "text": "into",
+    "start": 95.51,
+    "end": 95.74
+  },
+  {
+    "text": "leverage",
+    "start": 95.88,
+    "end": 96.41
+  },
+  {
+    "text": "that",
+    "start": 96.41,
+    "end": 96.69
+  },
+  {
+    "text": "multiplies",
+    "start": 96.74,
+    "end": 97.53
+  },
+  {
+    "text": "for",
+    "start": 97.53,
+    "end": 97.56
+  },
+  {
+    "text": "years.",
+    "start": 97.98,
+    "end": 98.5
+  },
+  {
+    "text": "The",
+    "start": 98.5,
+    "end": 98.74
+  },
+  {
+    "text": "tools",
+    "start": 98.74,
+    "end": 99.14
+  },
+  {
+    "text": "are",
+    "start": 99.14,
+    "end": 99.24
+  },
+  {
+    "text": "free",
+    "start": 99.27,
+    "end": 99.43
+  },
+  {
+    "text": "to",
+    "start": 99.43,
+    "end": 99.86
+  },
+  {
+    "text": "install.",
+    "start": 99.86,
+    "end": 100.62
+  },
+  {
+    "text": "What's",
+    "start": 100.94,
+    "end": 101.18
+  },
+  {
+    "text": "rare",
+    "start": 101.18,
+    "end": 101.44
+  },
+  {
+    "text": "is",
+    "start": 101.48,
+    "end": 101.62
+  },
+  {
+    "text": "knowing",
+    "start": 102.06,
+    "end": 102.32
+  },
+  {
+    "text": "exactly",
+    "start": 102.32,
+    "end": 102.81
+  },
+  {
+    "text": "what",
+    "start": 102.81,
+    "end": 103.31
+  },
+  {
+    "text": "each",
+    "start": 103.31,
+    "end": 103.6
+  },
+  {
+    "text": "one",
+    "start": 103.6,
+    "end": 103.74
+  },
+  {
+    "text": "is",
+    "start": 103.85,
+    "end": 104
+  },
+  {
+    "text": "for,",
+    "start": 104.08,
+    "end": 104.42
+  },
+  {
+    "text": "now",
+    "start": 104.5,
+    "end": 104.85
+  },
+  {
+    "text": "you",
+    "start": 104.85,
+    "end": 105.2
+  },
+  {
+    "text": "do.",
+    "start": 105.2,
+    "end": 105.54
+  }
+]
